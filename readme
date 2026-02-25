@@ -1,0 +1,7 @@
+make a 2 folder 
+
+backend
+    npm init -y
+    npm i express pg bcryptjs jsonwebtoken cookie-parser dotenv 
+    
+frontend
