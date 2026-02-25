@@ -19,6 +19,8 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://mg-pern-auth-project.vercel.app",
+      "https://authentication-pern-render.onrender.com",
+      "https://auth-pern-render.onrender.com",
     ],
     credentials: true,
   }),
